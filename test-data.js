@@ -205,4 +205,3 @@ window.fantasyExample = {
       },
     ],
   };
-  
